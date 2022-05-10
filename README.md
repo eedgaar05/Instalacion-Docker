@@ -28,3 +28,11 @@ Una vez ejecutado le damos a continual y empezará a descargar Docker.
 Al completarse la descarga te solicitan reiniciar para acabar la instalación.
 
 ![image](https://user-images.githubusercontent.com/91616284/167699361-e1e49ab7-2e6b-4d38-827e-442a3fa98f8d.png)
+
+Aceptamos los terminos y condiciones de doker
+
+![image](https://user-images.githubusercontent.com/91616284/167700321-6eef1965-2d88-4090-8380-d0fd2164884f.png)
+
+Nos solicita reiniciar de nuevo
+
+![image](https://user-images.githubusercontent.com/91616284/167700685-02d080b7-27ae-4564-90e0-edd388e0d9db.png)
