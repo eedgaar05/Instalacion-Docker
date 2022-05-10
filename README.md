@@ -33,6 +33,6 @@ Aceptamos los terminos y condiciones de doker
 
 ![image](https://user-images.githubusercontent.com/91616284/167700321-6eef1965-2d88-4090-8380-d0fd2164884f.png)
 
-Nos solicita reiniciar de nuevo
+Nos solicita reiniciar de nuevo, esta vez para instalar los paquetes del kernel
 
 ![image](https://user-images.githubusercontent.com/91616284/167700685-02d080b7-27ae-4564-90e0-edd388e0d9db.png)
